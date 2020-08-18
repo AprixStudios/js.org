@@ -167,6 +167,7 @@ var cnames_active = {
   "appsocket": "appsocket.netlify.com",
   "apr": "ramitos.github.io/apr",
   "aprende-react": "ptcc.github.io/aprende-react",
+  "aprixstudios": "aprixstudios.github.io",
   "aptrinh": "aptrinh.github.io",
   "arc": "diegohaz.github.io/arc",
   "arcn": "alexakasanjeev.github.io/arcn",
